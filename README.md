@@ -1,8 +1,8 @@
 # writeups
 Writeups of many things explored
 
-## hack the box
+## [htb](htb)
 Writeups of Hack The Box machines
 
-## random stuff
+## [random](random)
 Writeups of random stuff encountered

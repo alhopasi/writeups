@@ -1,4 +1,4 @@
-## hack the box
+## htb
 
 Writeups of [Hack The Box](https://app.hackthebox.com) machines.
 
