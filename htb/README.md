@@ -1,7 +1,7 @@
-## htb
+writeups:/root/htb$
 
-Writeups of [Hack The Box](https://app.hackthebox.com) machines
+writeups of [hack the box](https://app.hackthebox.com) machines
 
-Nothing here yet
+nothing here yet
 
-\[[home]\](../)
+\[[/root](../)\]

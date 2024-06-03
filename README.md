@@ -1,8 +1,6 @@
-# writeups
-Writeups of many things explored
+writeups:/root$
 
-## htb
-\[[htb](htb)\] - Writeups of Hack The Box machines
+writeups of many things explored
 
-## random
-\[[random](random)\] - Writeups of random stuff encountered
+\[[htb](htb)\] - hack the box machines\
+\[[random](random)\] - random stuff encountered

@@ -1,6 +1,7 @@
-# random
-Random exploration of the world
+writeups:/root/random$
 
-Nothing here yet
+random exploration of the world
 
-\[[home]\](../)
+nothing here yet
+
+\[[/root](../)\]
