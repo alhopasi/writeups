@@ -1,6 +1,6 @@
 # random
-Random exploration of the world.
+Random exploration of the world
 
-Nothing here yet.
+Nothing here yet
 
-[Return to home](../)
+\[[home]\](../)
