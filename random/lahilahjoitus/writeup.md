@@ -65,10 +65,10 @@ This is slow, and to make a real impact to the voting, a script could be made to
 
 To implement the voting to the script, it's easy to copy the POST request from the browser history.  
 Here is an example of Brave browser and copying the POST as Powershell command.  
-![alt text](.07.jpg "Copying the POST request")
+![alt text](./07.jpg "Copying the POST request")
 
 The example request can be run in Powershell:  
-![alt text](.08.jpg "Powershell example")  
+![alt text](./08.jpg "Powershell example")  
 The response giving new `id` and `COMPLETED` status.
 
 This could be wrapped in a script, which posts the same POST request over and over again. Possible spreading the votes over the whole voting period.
