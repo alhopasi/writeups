@@ -48,7 +48,7 @@ This is not a Lähitapiola hosted website, but a 3rd party, which is hosting a p
 
 When the user submits the vote, a POST request is made to the SurveySparrow website:  
 ![alt text](./04.jpg "POST Request")  
-`tt-BHEGr` seems to be the unique path or identifier of the vote.
+`tt-BHEGr` seems to be the unique path or identifier of the voting survey.
 
 With the POST request, the data of the choices is sent to the SurveySparrow website:  
 ![alt text](./05.jpg "POST Payload")
