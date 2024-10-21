@@ -1,8 +1,11 @@
 writeups:/root/random/lahilahjoitus
-
+\
+\
+\
 \[ LÄHILAHJOITUS - MANIPULATION OF A VOTING SYSTEM \]
-
-
+\
+\
+\
 This is a writeup about how I discovered a way to manipulate Lähitapiola Pääkaupunkiseutu Lähilahjoitus voting.
 \
 \
