@@ -1,12 +1,15 @@
 writeups:/root/random/lahilahjoitus
+
 \
 \
 \
 \[ LÄHILAHJOITUS - MANIPULATION OF A VOTING SYSTEM \]
+
 \
 \
 \
 This is a writeup about how I discovered a way to manipulate Lähitapiola Pääkaupunkiseutu Lähilahjoitus voting.
+
 \
 \
 \
@@ -18,6 +21,7 @@ Lähitapiola Pääkaupunkiseutu is a Lähitapiola bank branch that handles the b
 Lähitapiola Pääkaupunkiseutu hosted a voting event, where the goal was to vote which children or youth sports organizations or clubs would be handed out 1000 euros. Lähitapiola Pääkaupunkiseutu would give out 1000 euros to 100 most voted clubs, distributed to Helsinki, Espoo and Vantaa areas.
 
 The sports clubs had to sign up before hand to be part of the vote.
+
 \
 \
 \
@@ -33,6 +37,7 @@ With a few more clicks, the user selects the city (Helsinki, Espoo or Vantaa) an
 ![alt text](./03.jpg "Voting!")
 
 If the user tries to vote again using the browser, the user is shown a "thank you for voting" page.
+
 \
 \
 \
@@ -54,6 +59,7 @@ And the user is given a response to the POST request, that the vote was successf
 With the POST event, the user is also given a cookie. This cookie indicates that the user has already voted.
 
 When visiting the website again, if the cookie is found, the user can not give a new vote.
+
 \
 \
 \
@@ -72,6 +78,7 @@ The example request can be run in Powershell:
 The response giving new `id` and `COMPLETED` status.
 
 This could be wrapped in a script, which posts the same POST request over and over again. Possible spreading the votes over the whole voting period.
+
 \
 \
 \
@@ -94,7 +101,8 @@ If yes, Lähitapiola must use resources to correct the situation.
 - If they don't, what will Lähitapiola do with the voting?
 - If there are some clubs that have clearly been manipulated, drop all those out from the voting, making all "legal" votes obsolete?
 - Accept the result, no matter that it's been manipulated?
-- Should Lähitapiola make an announcement that the results have been manipulated? 
+- Should Lähitapiola make an announcement that the results have been manipulated?
+
 \
 \
 \
@@ -110,6 +118,7 @@ During that time, I did not find the correct way to report the possibility of ma
 
 As the Lähilahjoitus voting was being held again in 2024, I decided to see if my report ever got through and if they had made any changes.  
 When the voting was opened, I was not surprised to see that everything was the same as it was last year.
+
 \
 \
 \
@@ -128,6 +137,7 @@ Timeline:
 - 16-09-2024: reporting to Lähitapiola
 - 17-09-2024: reply from Lähitapiola
 - 18-09-2024: my reply to Lähitapiola, communication ends.
+
 \
 \
 \
@@ -140,6 +150,7 @@ Currently, there is only a cookie check to stop users voting again.
 Several other ways could be implemented (but maybe not on SurveySparrow site), here are some examples:
 - user must submit an email to vote and click on a link that is sent to the email address.
 - using reCAPTCHA to confirm the voter is a person.
+
 \
 \
 \
@@ -148,6 +159,7 @@ Several other ways could be implemented (but maybe not on SurveySparrow site), h
 Thank you Lähitapiola Pääkaupunkiseutu for supporting kids and youth sports clubs with Lähilahjoitus.
 
 See you on 2025, hopefully with a new platform.
+
 \
 \
 \
