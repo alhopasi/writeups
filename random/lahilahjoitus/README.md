@@ -1,4 +1,4 @@
-writeups:/root/random/lahilahjoitus
+writeups:/root/random/lahilahjoitus$
 
 \
 \
