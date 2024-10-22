@@ -136,7 +136,7 @@ The person delivered me some background info about the success of Lähilahjoitus
 I replied the next day, thanking for the fast reply and giving some more thoughts about the matter. We had no further communication.
 
 Timeline:
-- September of 2024: discovery of the manipulation
+- September of 2023: discovery of the manipulation
 - 16-09-2024: testing and confirming of the issue
 - 16-09-2024: reporting to Lähitapiola
 - 17-09-2024: reply from Lähitapiola
