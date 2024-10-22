@@ -2,7 +2,6 @@ writeups:/root/random$
 
 random exploration of the world
 
-\[[lahilahjoitus](./lahilahjoitus/writeup.md)\] - manipulation of a voting system
-nothing here yet
+\[[lahilahjoitus](lahilahjoitus)\] - manipulation of a voting system
 
 \[[/root](../)\]
