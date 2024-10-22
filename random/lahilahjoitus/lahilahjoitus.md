@@ -108,12 +108,14 @@ If yes, Lähitapiola must use resources to correct the situation.
 \
 \[ THE DISCOVERY \]
 
-The Lähitapiola Pääkaupunkiseutu Lähilahjoitus voting was open from September 2024 to mid October 2024.
+The Lähitapiola Pääkaupunkiseutu Lähilahjoitus voting was open from 16-09-2024 to 13-10-2024.  
+The results of the voting have not been announced yet (22-10-2024).
 
-This was 2nd time the voting was held. Previously it was held in year 2023.  
-During 2024, the idea has been adopted by other Lähitapiola branches. These votings have been held using different platforms.
+Lähitapiola Pääkaupunkiseutu also held Lähilahjoitus in the last year, 2023.  
+During 2024, the Lähilahjoitus has also been held at other Lähitapiola branches. These other votings have been held using different platforms than SurveySparrow.
 
-I first discovered this in the year 2023, when the voting was held first time.  
+I first discovered Lähitapiola Pääkaupunkiseutu Lähilahjoitus in the year 2023, when the voting was held the previous time.  
+That was when I found out about the possibility of manipulation.  
 During that time, I did not find the correct way to report the possibility of manipulation. I tried contacting Lähitapiola main office by some channel, but my choice was poor and never got a reply.
 
 As the Lähilahjoitus voting was being held again in 2024, I decided to see if my report ever got through and if they had made any changes.  
@@ -134,6 +136,8 @@ The person delivered me some background info about the success of Lähilahjoitus
 I replied the next day, thanking for the fast reply and giving some more thoughts about the matter. We had no further communication.
 
 Timeline:
+- September of 2024: discovery of the manipulation
+- 16-09-2024: testing and confirming of the issue
 - 16-09-2024: reporting to Lähitapiola
 - 17-09-2024: reply from Lähitapiola
 - 18-09-2024: my reply to Lähitapiola, communication ends.
@@ -147,7 +151,7 @@ Lähitapiola Pääkaupunkiseutu wants the voting to be easy for it's users. This
 With this in mind, it's hard to block all vote-manipulation attempts, without making the voting a harder process.
 
 Currently, there is only a cookie check to stop users voting again.  
-Several other ways could be implemented (but maybe not on SurveySparrow site), here are some examples:
+Several other ways could be implemented to hinder the possibility of manipulation (but maybe not on SurveySparrow site), here are some examples:
 - user must submit an email to vote and click on a link that is sent to the email address.
 - using reCAPTCHA to confirm the voter is a person.
 
