@@ -164,4 +164,4 @@ See you on 2025, hopefully with a new platform.
 \
 \
 \
-\[[/root/random](../)\]
+\[[/root/random](../random.md)\]
